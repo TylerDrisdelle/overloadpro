@@ -1,4 +1,5 @@
 {
+  "id": "./",
   "name": "OverloadPro",
   "short_name": "OverloadPro",
   "start_url": "./",
@@ -13,5 +14,6 @@
       "type": "image/png",
       "purpose": "any"
     }
-  ]
+  ],
+  "orientation": "portrait"
 }
