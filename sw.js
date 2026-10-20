@@ -1,6 +1,6 @@
 // Offline support for the home-screen app. Caches only the app's own files;
 // workout data lives in localStorage and is never touched here.
-const VERSION = 'ovp-2026-10-19-1';
+const VERSION = 'ovp-2026-10-20-1';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './app-icon.png', './favicon.svg'];
 
 async function precache() {
